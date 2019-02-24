@@ -1,4 +1,4 @@
 # Calculator
 2nd Ios APP
  
- # Its kinda difficult to align the blocks in Ios front-end.
+ # Its little bit difficult to align the blocks in Ios front-end.
